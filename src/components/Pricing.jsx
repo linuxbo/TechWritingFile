@@ -34,7 +34,7 @@ const plans = [
       'You’ve been chewing on this for a while. The feature is going out later, there is some nuance.',
     button: {
       label: 'Buy now',
-      href: '/register',
+      href: 'https://tables.area120.google.com/u/0/authform/bPGyNY_24rX4qYSO1GxOnr/t/919YWGHUFW_du1oA3mAk54bfUjwzm2yIi7JIAhEHf_5Baika4zPWcQ6b0SPDvvZO0h',
     },
     features: [
       'Ongoing Release Notes',
@@ -53,7 +53,7 @@ const plans = [
       'You’ve got a huge amount of shit and we need to make sure it gets communicated. To the moon!',
     button: {
       label: 'Buy now',
-      href: '/register',
+      href: 'https://tables.area120.google.com/u/0/authform/bQ3QMHgP8v503uj0LCeO5D/t/a4pYNPUvUELarobVsySkc0aFus3j_DbPp4RrXV91E_kQbyyDRRJfcm8ei-tzS7O_Rr',
     },
     features: [
 
