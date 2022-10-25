@@ -64,7 +64,7 @@ const plans = [
       'External [How-To] Video',
       'External [How-To] Guide',
       'External [Reference] Guide',
-      'External [How-to] Video',
+      'Internal [How-to] Video',
       'External [Explanation] Video',
      ],
     logomarkClassName: 'fill-cyan-500',
