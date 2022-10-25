@@ -14,10 +14,10 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Medable Docs.</title>
+        <title>Vistar Media Docs.</title>
         <meta
           name="description"
-          content="We're just trying to avoid painful losses."
+          content="We can't stop"
         />
       </Head>
        <main>
