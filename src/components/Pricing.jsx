@@ -17,7 +17,7 @@ const plans = [
       'You’re releasing it in two weeks but want to do it right. Get started now please!',
     button: {
       label: 'Buy now!',
-      href: 'https://tables.area120.google.com/u/0/authform/a1eyCgbtQNMf-eDOO0ckNW/t/bW9EbnoHDw5ezkNv-8AkI7aLTvzqqHF1v8UOusXpr_598x3v6WiRRkQ8_K16aMEOHG',
+      href: 'https://tables.area120.google.com/authform/aTCXgxk_ECkcDz30ZD5_AW/t/a_Dstje6tVwctQsIWqwkvpasEjVnhBNKI8j1FEKcBOG4bf5e_7oT9zh73saf5_TOZw',
     },
     features: [
       'Ongoing Release Notes',
