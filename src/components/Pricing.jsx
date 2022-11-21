@@ -17,7 +17,7 @@ const plans = [
       'You’re releasing it in two weeks but want to do it right. Get started now please!',
     button: {
       label: 'Buy now!',
-      href: 'https://tables.area120.google.com/authform/aTCXgxk_ECkcDz30ZD5_AW/t/a_Dstje6tVwctQsIWqwkvpasEjVnhBNKI8j1FEKcBOG4bf5e_7oT9zh73saf5_TOZw',
+      href: 'https://tables.area120.google.com/authform/bmhaF9EbhcvdZrD5JR1kbu/t/aZurRVtI9YD6nFD7hRjOZQ9UDaW3VeweDdFaNHOSrOteb0WalBNDH0Nc5yMP9h__Vj',
     },
     features: [
       'Ongoing Release Notes',
@@ -34,7 +34,7 @@ const plans = [
       'You’ve been chewing on this for a while. The feature is going out later, there is some nuance.',
     button: {
       label: 'Buy now',
-      href: 'https://tables.area120.google.com/u/0/authform/bPGyNY_24rX4qYSO1GxOnr/t/919YWGHUFW_du1oA3mAk54bfUjwzm2yIi7JIAhEHf_5Baika4zPWcQ6b0SPDvvZO0h',
+      href: 'https://tables.area120.google.com/authform/aUNER6c0D3ucfN-AO3x4oM/t/9Y2E4d4Uq3o5ffittHv4ftbuTeatI9KaVcQE3s11l_IYaTFCOwKFvQd4RZgGX1QO3e',
     },
     features: [
       'Ongoing Release Notes',
@@ -53,7 +53,7 @@ const plans = [
       'You’ve got a huge amount of shit and we need to make sure it gets communicated. To the moon!',
     button: {
       label: 'Buy now',
-      href: 'https://tables.area120.google.com/u/0/authform/bQ3QMHgP8v503uj0LCeO5D/t/a4pYNPUvUELarobVsySkc0aFus3j_DbPp4RrXV91E_kQbyyDRRJfcm8ei-tzS7O_Rr',
+      href: 'https://tables.area120.google.com/authform/byJj4ZJGnj64ut7wFTYk1l/t/87B-LwicTMb72_VkWrs4dWbZq2ZIG6UeedKL26FYb__Rawn-dxp8FTY1jAOCumX_tp',
     },
     features: [
 
