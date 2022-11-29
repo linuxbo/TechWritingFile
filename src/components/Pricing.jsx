@@ -210,11 +210,10 @@ export function Pricing() {
             id="pricing-title"
             className="text-3xl font-medium tracking-tight text-gray-900"
           >
-            Technical Documentation, no confusing fees.
+            Technical Documentation, fee free.
           </h2>
           <p className="mt-2 text-lg text-gray-600">
-            Whether you’re one product manager trying to get ahead or JT trying
-            to take over the world, we’ve got a plan for you.
+          Write it right with us - Technical Writing Solutions for Every Need
           </p>
         </div>
  
