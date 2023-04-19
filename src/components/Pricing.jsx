@@ -21,8 +21,8 @@ const plans = [
     },
     features: [
       'Ongoing Release Notes',
-      'Internal [How-To] Guide',
-      'External [Explanation] Guide',
+      'Small Doc Request A',
+      'Small Doc Request B',
     ],
     logomarkClassName: 'fill-gray-300',
   },
